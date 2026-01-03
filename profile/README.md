@@ -49,7 +49,7 @@ LLM · IA générative · APIs · Web & App moderne
 </td>
 <td align="right">
 <a href="https://www.supernestor.fr">
-<img src="./supernestor.png" alt="supernestor" width="80" />
+<img src="./supernestor.png" alt="supernestor" width="120" />
 </a>
 </td>
 </tr>
@@ -77,7 +77,7 @@ LLM · IA générative · APIs · Web & App moderne
 </td>
 <td align="right">
 <a href="https://www.zagrow.fr">
-<img src="./zagrow.png" alt="zagrow" width="80" />
+<img src="./zagrow.png" alt="zagrow" width="120" />
 </a>
 </td>
 </tr>
@@ -105,7 +105,7 @@ LLM · IA générative · APIs · Web & App moderne
 </td>
 <td align="right">
 <a href="https://www.comparemandataire.fr/">
-<img src="./comparem.png" alt="Logo comparemandataire" width="80" />
+<img src="./comparem.png" alt="Logo comparemandataire" width="120" />
 </a>
 </td>
 </tr>
@@ -115,7 +115,7 @@ LLM · IA générative · APIs · Web & App moderne
 </td>
 <td align="right">
 <a href="https://www.comparateur-mandataires.com/">
-<img src="./comparat.png" alt="Logo comparateur-mandataires" width="80" />
+<img src="./comparat.png" alt="Logo comparateur-mandataires" width="120" />
 </a>
 </td>
  </tr>
