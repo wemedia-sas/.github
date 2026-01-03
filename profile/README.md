@@ -1,4 +1,4 @@
-# 🎈 GitHub Wemedia
+# 🧙🏻‍♀️ GitHub Wemedia
 
 Cette organisation a pour vocation de servir de **vitrine technique** de nos **applications et sites web basés sur l’intelligence artificielle**.
 
